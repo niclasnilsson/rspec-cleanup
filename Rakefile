@@ -5,9 +5,9 @@ begin
   require 'jeweler'
   Jeweler::Tasks.new do |gem|
     gem.name = "rspec-cleanup"
-    gem.summary = %Q{TODO: one-line summary of your gem}
-    gem.description = %Q{TODO: longer description of your gem}
-    gem.email = "niclas.nilsson@factor10.com"
+    gem.summary = %Q{Improves spec isolation in certain cases by cleaning up classes and other constants created in a spec.}
+    gem.description = %Q{Improves spec isolation in certain cases by cleaning up classes and other constants created in a spec.}
+    gem.email = "niclas@niclasnilsson.se"
     gem.homepage = "http://github.com/niclasnilsson/rspec-cleanup"
     gem.authors = ["Niclas Nilsson"]
     gem.add_development_dependency "rspec", ">= 1.2.9"
