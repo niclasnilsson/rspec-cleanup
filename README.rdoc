@@ -78,7 +78,9 @@ But with rspec-cleanup:
   end
 
 
+== TODO
 
+* Add support for specs written inside a module
 
 
 == Note on Patches/Pull Requests
