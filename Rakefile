@@ -6,7 +6,7 @@ begin
   Jeweler::Tasks.new do |gem|
     gem.name = "rspec-cleanup"
     gem.summary = %Q{Improves spec isolation in certain cases by cleaning up classes and other constants created in a spec.}
-    gem.description = %Q{Improves spec isolation in certain cases by cleaning up classes and other constants created in a spec.}
+    gem.description = %Q{Improves spec isolation in certain cases by cleaning up classes and other constants created in a spec.} 
     gem.email = "niclas@niclasnilsson.se"
     gem.homepage = "http://github.com/niclasnilsson/rspec-cleanup"
     gem.authors = ["Niclas Nilsson"]
